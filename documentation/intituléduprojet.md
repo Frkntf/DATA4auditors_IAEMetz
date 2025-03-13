@@ -66,7 +66,7 @@ Action	Rendement annualisé	Volatilité annualisée	Beta	Alpha annualisé	Ratio 
 AAPL	31.92%	30.66%	1.20	13.87%	0.98
 MSFT	25.38%	29.08%	1.19	7.44%	0.80
 META	30.21%	42.38%	1.32	10.36%	0.67
-Ces chiffres offrent une vue d’ensemble des performances et des risques associés à chaque action. Une analyse détaillée suit dans la section 3.2.
+Ces chiffres offrent une vue d’ensemble des performances et des risques associés à chaque action.
 
 2)	Analyse des graphiques
 
