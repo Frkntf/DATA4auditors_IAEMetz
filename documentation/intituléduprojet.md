@@ -2,6 +2,8 @@
 
 I) Introduction
 
+Dans un marché où la volatilité et la performance sont au cœur des décisions d’investissement, il est essentiel de comprendre comment certaines actions se comportent face à un indice de référence comme le S&P 500. Aujourd’hui, nous allons analyser en détail la rentabilité et le risque des actions Apple, Microsoft et Meta afin de déterminer si elles offrent un meilleur potentiel de rendement ajusté au risque que le marché global.
+
 1)	Présentation du sujet
    
 Ce rapport examine en profondeur la performance financière des actions AAPL (Apple Inc.), MSFT (Microsoft Corporation) et META (Meta Platforms Inc.) par rapport au benchmark SPY (SPDR S&P 500 ETF Trust) sur une période de six ans, allant du 12 mars 2019 au 12 mars 2025. Ces entreprises, piliers du secteur technologique, sont analysées à travers des indicateurs financiers clés pour évaluer leur rendement, leur risque et leur comportement par rapport au marché global, représenté par le SPY, un fonds indiciel qui suit l’indice S&P 500.
@@ -113,3 +115,5 @@ Ainsi, en termes de recommandations pour les investisseurs :
 •	MSFT est préférable pour les investisseurs averses au risque, cherchant une stabilité et une croissance régulière.
 •	META, quant à elle, est plus adaptée aux investisseurs agressifs, prêts à tolérer des fluctuations importantes pour un potentiel de gains élevé.
 Toutes les actions surpassent le SPY, ce qui confirme l’attractivité du secteur technologique. Toutefois, le choix dépendra du profil de risque et des objectifs spécifiques de chaque investisseur.
+
+Cette analyse soulève une question plus large : dans un environnement financier en constante évolution, comment les investisseurs peuvent-ils optimiser leurs décisions pour allier performance et maîtrise du risque ? L’intégration de nouvelles approches, comme l’analyse quantitative avancée ou l’intelligence artificielle, pourrait être une piste pour affiner encore davantage l’évaluation des opportunités d’investissement.
