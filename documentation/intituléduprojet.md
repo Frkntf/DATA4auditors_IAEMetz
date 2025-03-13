@@ -103,6 +103,7 @@ AAPL se distingue avec un alpha de 13,87 %, indiquant une surperformance excepti
 Ainsi, AAPL se présente comme un choix optimal pour un équilibre entre rendement et risque, particulièrement adapté à ceux recherchant une performance robuste avec une volatilité maîtrisée. MSFT, quant à elle, est idéale pour les investisseurs privilégiant la stabilité et une croissance prévisible, tout en offrant un risque modéré. Enfin, META convient davantage aux investisseurs tolérants au risque, prêts à accepter des fluctuations importantes pour bénéficier d’un potentiel de rendement élevé.
 
 IV) Conclusion
+
 L’analyse des performances financières des actions AAPL, MSFT et META sur la période 2019-2025 met en lumière des profils distincts.
 •	AAPL se distingue avec un rendement annualisé de 31,92 %, une volatilité modérée de 30,66 %, un ratio de Sharpe de 0,98 et un alpha de 13,87 %. Elle offre ainsi le meilleur équilibre entre risque et rendement, avec une surperformance exceptionnelle par rapport au SPY.
 •	MSFT, quant à elle, affiche un rendement de 25,38 %, une volatilité de 29,08 %, un ratio de Sharpe de 0,80 et un alpha de 7,44 %. Cette action représente une option stable et fiable, idéale pour les investisseurs plus prudents.
